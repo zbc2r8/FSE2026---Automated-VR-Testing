@@ -49,7 +49,7 @@ This repository contains:
 - (4) experimental results
 	- saved under: /results
 
-Additionally, we saved the code used for the labelling process under: /code/labeling
+Additionally, we attached the implementation used for the labelling process under: /code/labeling
 
 
 ## Usage
